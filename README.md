@@ -24,7 +24,6 @@ Side-by-side scatterplots show:
 - **Left:** Actual survival by Age & Gender.
 - **Right:** Model correctness (green = correct, red = incorrect).
 
-![Correct vs Incorrect Predictions](images/correct_vs_incorrect.png)
 
 ### **2. Confusion Matrix**
 A heatmap to understand classification performance at a glance.
