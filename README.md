@@ -57,7 +57,7 @@ A heatmap to understand classification performance at a glance.
 ---
 
 ## Dataset
-The dataset comes from the [Kaggle Titanic Competition](https://www.kaggle.com/c/titanic).  
+The dataset comes from the [Titanic Dataset](https://www.kaggle.com/datasets/heptapod/titanic)
 
 ---
 
